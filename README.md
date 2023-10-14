@@ -1,4 +1,4 @@
 # AmazonClone
-This project is done using HTML, CSS, JavaScript. <br>
-
+This project is done using HTML, CSS. <br>
+This project consist of only Home page of amazon.com <br> 
 I am doing this project for adding it to my Resume. <br>
