@@ -74,4 +74,42 @@
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+.nav-search:hover{
+    border: 2px solid orange;
+}
+/*language*/
+.nav-lang{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+}
+.lang-logo{
+    width:21px;
+    height:16px;
+}
+.lang-select{
+    width:40px;
+    height:25px;
+    background-color: black;
+    color:white;
+    font-weight: 800;
+}
 
+/* Sign in*/
+.span{
+    font-size: 0.7rem;
+}
+.nav-second{
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+/* cart */
+.nav-cart i {
+    font-size: 30px;
+}
+.nav-cart{
+    font-size: 1;
+    font-weight: 700;
+}
+}
